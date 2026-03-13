@@ -3,11 +3,6 @@ This project demonstrates data analysis, visualization,
 and machine learning using a Heart Disease dataset.
 
 ## Project Structure
-heart-disease-analysis/
-├── heart.csv
-├── heart_disease_analysis.ipynb
-└── README.md
-
 ## Project Goals
 * Data loading and overview
 * Data cleaning and validation
