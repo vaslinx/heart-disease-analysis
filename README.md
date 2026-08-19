@@ -5,11 +5,11 @@ Exploratory data analysis and machine learning on a heart disease dataset.
 Covers data cleaning, visualization, correlation analysis, SMOTE balancing, and RandomForest classification.
 
 ## Dataset
-Source: [Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) — UCI Machine Learning Repository
-Publisher: UCI Machine Learning Repository
-Description: Medical data used to predict the presence of heart disease based on health indicators
-Note: The dataset used in this project is a synthetically generated sample based on the structure of the original UCI Heart Disease dataset. It was created for practice and learning purposes only.
-License: Public Domain
+* **Source**: [Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) — UCI Machine Learning Repository
+* **Publisher**: UCI Machine Learning Repository
+* **Description**: Medical data used to predict the presence of heart disease based on health indicators
+* **Note**: The dataset used in this project is a synthetically generated sample based on the structure of the original UCI Heart Disease dataset. It was created for practice and learning purposes only.
+* **License**: Public Domain
 
 ## Project structure
 * heart.csv
